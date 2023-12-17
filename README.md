@@ -36,7 +36,7 @@ https://1.envato.market/NkBrab
 		  <ul><li>WelcomeMessage : This is welcome message is sent when  user first time contact you on whatsapp <br/>
                    Example :<pre>Please chooze our service
 1 : you press 1
-2 : you press 2
+3 : you press 3
 back: back to menu</pre></li>
 			   <li>Rules :  You can create Rules With your Rule Keyword  : Like you want if user send message keyword: 1 then you want to send some unique message to your user</li>
 			   <ul>
